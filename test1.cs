@@ -9,4 +9,5 @@ class A
     name=Name;
     Age=age;
   }
+  public void A(){}
 }
